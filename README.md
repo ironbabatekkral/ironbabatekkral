@@ -21,9 +21,10 @@ class Iron:
 
     def explain(self, key):
         print(self.values.get(key.upper(), key))
-```
+
 
 Iron().explain("BDSM")
+```
 💻 Languages
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white">
 🖥 Operating Systems
